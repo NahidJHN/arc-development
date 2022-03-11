@@ -12,9 +12,7 @@ const Header = () => {
                     Arc Development
                 </Typography>
                 <AppBar position="static" color="primary">
-                  <Tabs value={} onChange={} aria-label="">
-                    
-                  </Tabs>
+
                 </AppBar>
             </Toolbar>
         </AppBar>
